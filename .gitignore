@@ -1,0 +1,7 @@
+nuitka-crash-report.xml
+pyarmor.bug.log
+__pycache__/
+dist/
+main.build/
+main.dist/
+main.onefile-build/
